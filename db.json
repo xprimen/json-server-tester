@@ -28,28 +28,55 @@
   ],
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "username": "admin",
       "password": "admin",
-      "name": "Administrator",
+      "confPassword": "enggapw1",
       "role": "admin",
-      "nik": ""
+      "nik": "1607103313990001",
+      "nama": "Administrator",
+      "alamat": "jalan",
+      "tlp": "085268068200",
+      "mawil": "sumsel",
+      "submawil": "oku",
+      "kel": 1005,
+      "kec": 14,
+      "kota": 1,
+      "propinsi": 16
     },
     {
-      "id": 2,
-      "username": "sanfk1",
-      "password": "sanfk1",
-      "name": "San FK 1",
+      "id": "2",
+      "username": "sanfkpw1",
+      "password": "sanfkpw1",
       "role": "PW",
-      "nik": ""
+      "confPassword": "sanfkpw1",
+      "nik": "1607103313990001",
+      "nama": "San FK PW1",
+      "alamat": "jalan",
+      "tlp": "085268068200",
+      "mawil": "sumsel",
+      "submawil": "oku",
+      "kel": 1005,
+      "kec": 14,
+      "kota": 1,
+      "propinsi": 16
     },
     {
-      "id": 3,
-      "username": "sanfk2",
-      "password": "sanfk2",
-      "name": "San FK 2",
-      "role": "PW",
-      "nik": ""
+      "id": "3",
+      "username": "sanfkpk1",
+      "password": "sanfkpk1",
+      "role": "PK",
+      "confPassword": "sanfkpk1",
+      "nik": "1607103313990001",
+      "nama": "San FK PK1",
+      "alamat": "jalan",
+      "tlp": "085268068200",
+      "mawil": "sumsel",
+      "submawil": "oku",
+      "kel": 1005,
+      "kec": 14,
+      "kota": 1,
+      "propinsi": 16
     }
   ],
   "kotak": [
@@ -82,7 +109,7 @@
   "pic_wilayah": [
     {
       "id": 1,
-      "user_id": 2,
+      "user_id": "2",
       "id_kotak": "PKDP0001",
       "id_mawil": 1,
       "status_kotak": "siap",
