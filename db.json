@@ -31,8 +31,7 @@
       "id": "1",
       "username": "admin",
       "password": "admin",
-      "confPassword": "enggapw1",
-      "role": "admin",
+      "role": 1,
       "nik": "1607103313990001",
       "nama": "Administrator",
       "alamat": "jalan",
@@ -48,8 +47,7 @@
       "id": "2",
       "username": "sanfkpw1",
       "password": "sanfkpw1",
-      "role": "PW",
-      "confPassword": "sanfkpw1",
+      "role": 2,
       "nik": "1607103313990001",
       "nama": "San FK PW1",
       "alamat": "jalan",
@@ -65,8 +63,7 @@
       "id": "3",
       "username": "sanfkpk1",
       "password": "sanfkpk1",
-      "role": "PK",
-      "confPassword": "sanfkpk1",
+      "role": 3,
       "nik": "1607103313990001",
       "nama": "San FK PK1",
       "alamat": "jalan",
@@ -112,9 +109,19 @@
       "user_id": "2",
       "id_kotak": "PKDP0001",
       "id_mawil": 1,
-      "status_kotak": "siap",
-      "tgl_dikirim": null,
-      "tgl_diterima": null
+      "status_kotak": "ready"
+    }
+  ],
+  "pengiriman_kotak": [
+    {
+      "id": 1,
+      "id_kotak": "PKDP0001",
+      "user_pengirim": "1",
+      "user_penerima": "2",
+      "alamat_penerima": "jalan",
+      "no_resi": "123456789",
+      "tgl_kirim": "2022-08-01",
+      "tgl_terima": "2022-08-10"
     }
   ],
   "history_kotak": [],
