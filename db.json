@@ -88,21 +88,33 @@
     {
       "id": "PKDP0002",
       "qrcode": "link:PKDP0002",
-      "user_input": null
+      "user_input": null,
+      "user_wilayah": null,
+      "user_kotak": null,
+      "status_kotak": "idle"
     },
     {
       "id": "PKDP0003",
       "qrcode": "link:PKDP0003",
-      "user_wilayah": null
+      "user_input": null,
+      "user_wilayah": null,
+      "user_kotak": null,
+      "status_kotak": "idle"
     },
     {
       "id": "PKDP0004",
       "qrcode": "link:PKDP0004",
-      "user_kotak": null
+      "user_input": null,
+      "user_wilayah": null,
+      "user_kotak": null,
+      "status_kotak": "idle"
     },
     {
       "id": "PKDP0005",
       "qrcode": "link:PKDP0005",
+      "user_input": null,
+      "user_wilayah": null,
+      "user_kotak": null,
       "status_kotak": "idle"
     }
   ],
