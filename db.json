@@ -45,8 +45,8 @@
     },
     {
       "id": "2",
-      "username": "sanfkpw1",
-      "password": "sanfkpw1",
+      "username": "enggapw2",
+      "password": "enggapw2",
       "role": 2,
       "nik": "1607103313990001",
       "nama": "San FK PW1",
@@ -61,8 +61,8 @@
     },
     {
       "id": "3",
-      "username": "sanfkpk1",
-      "password": "sanfkpk1",
+      "username": "enggapk1",
+      "password": "enggapk1",
       "role": 3,
       "nik": "1607103313990001",
       "nama": "San FK PK1",
@@ -80,27 +80,30 @@
     {
       "id": "PKDP0001",
       "qrcode": "link:PKDP0001",
-      "user_id": null
+      "user_input": null,
+      "user_wilayah": null,
+      "user_kotak": null,
+      "status_kotak": "idle"
     },
     {
       "id": "PKDP0002",
       "qrcode": "link:PKDP0002",
-      "user_id": null
+      "user_input": null
     },
     {
       "id": "PKDP0003",
       "qrcode": "link:PKDP0003",
-      "user_id": null
+      "user_wilayah": null
     },
     {
       "id": "PKDP0004",
       "qrcode": "link:PKDP0004",
-      "user_id": null
+      "user_kotak": null
     },
     {
       "id": "PKDP0005",
       "qrcode": "link:PKDP0005",
-      "user_id": null
+      "status_kotak": "idle"
     }
   ],
   "pic_wilayah": [
