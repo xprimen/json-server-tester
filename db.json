@@ -83,7 +83,8 @@
       "user_input": null,
       "user_wilayah": null,
       "user_kotak": null,
-      "status_kotak": "idle"
+      "status_kotak": "idle",
+      "status_pengiriman": "diterima"
     },
     {
       "id": "PKDP0002",
@@ -91,7 +92,8 @@
       "user_input": null,
       "user_wilayah": null,
       "user_kotak": null,
-      "status_kotak": "idle"
+      "status_kotak": "idle",
+      "status_pengiriman": "diterima"
     },
     {
       "id": "PKDP0003",
@@ -99,7 +101,8 @@
       "user_input": null,
       "user_wilayah": null,
       "user_kotak": null,
-      "status_kotak": "idle"
+      "status_kotak": "idle",
+      "status_pengiriman": "diterima"
     },
     {
       "id": "PKDP0004",
@@ -107,7 +110,8 @@
       "user_input": null,
       "user_wilayah": null,
       "user_kotak": null,
-      "status_kotak": "idle"
+      "status_kotak": "idle",
+      "status_pengiriman": "diterima"
     },
     {
       "id": "PKDP0005",
@@ -115,7 +119,53 @@
       "user_input": null,
       "user_wilayah": null,
       "user_kotak": null,
-      "status_kotak": "idle"
+      "status_kotak": "idle",
+      "status_pengiriman": "diterima"
+    },
+    {
+      "id": "PKDP0006",
+      "qrcode": "link:PKDP0006",
+      "user_input": null,
+      "user_wilayah": null,
+      "user_kotak": null,
+      "status_kotak": "idle",
+      "status_pengiriman": "dikirim"
+    },
+    {
+      "id": "PKDP0007",
+      "qrcode": "link:PKDP0007",
+      "user_input": null,
+      "user_wilayah": null,
+      "user_kotak": null,
+      "status_kotak": "idle",
+      "status_pengiriman": "dikirim"
+    },
+    {
+      "id": "PKDP0008",
+      "qrcode": "link:PKDP0008",
+      "user_input": null,
+      "user_wilayah": null,
+      "user_kotak": null,
+      "status_kotak": "idle",
+      "status_pengiriman": "dikirim"
+    },
+    {
+      "id": "PKDP0009",
+      "qrcode": "link:PKDP0009",
+      "user_input": null,
+      "user_wilayah": null,
+      "user_kotak": null,
+      "status_kotak": "idle",
+      "status_pengiriman": "dikirim"
+    },
+    {
+      "id": "PKDP0010",
+      "qrcode": "link:PKDP0010",
+      "user_input": null,
+      "user_wilayah": null,
+      "user_kotak": null,
+      "status_kotak": "idle",
+      "status_pengiriman": "dikirim"
     }
   ],
   "pic_wilayah": [
