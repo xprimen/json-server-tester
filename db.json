@@ -177,16 +177,16 @@
       "status_kotak": "ready"
     }
   ],
-  "pengiriman_kotak": [
+  "ekspedisi_kotak": [
     {
       "id": 1,
-      "id_kotak": "PKDP0001",
+      "id_kotak": "PKDP0006,PKDP0007,PKDP0008,PKDP0009,PKDP0010",
       "user_pengirim": "1",
       "user_penerima": "2",
       "alamat_penerima": "jalan",
-      "no_resi": "123456789",
+      "keterangan": "No. resi: 123456789",
       "tgl_kirim": "2022-08-01",
-      "tgl_terima": "2022-08-10"
+      "tgl_terima": null
     }
   ],
   "history_kotak": [],
