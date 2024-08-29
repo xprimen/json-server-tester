@@ -182,7 +182,7 @@
       "id": 1,
       "id_kotak": "PKDP0006,PKDP0007,PKDP0008,PKDP0009,PKDP0010",
       "user_pengirim": "1",
-      "user_penerima": "2",
+      "user_penerima": "9f824a24-6ea9-4cc9-b868-890065425b3f",
       "alamat_penerima": "jalan",
       "keterangan": "No. resi: 123456789",
       "tgl_kirim": "2022-08-01",
